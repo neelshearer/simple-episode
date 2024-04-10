@@ -1,6 +1,6 @@
 # Simple Episode plugin 
 ### Author: Neel Shearer (https://github.com/neelshearer/)
-#### Forked by: Slaven Stančič (https://github.com/slavenstancic)
+#### Forked from: Slaven Stančič (https://github.com/slavenstancic)
 
 This is a simple episodes plugin for WonderCMS 3.x.x
 
